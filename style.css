@@ -1,0 +1,45 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: antiquewhite;
+    width: 60%;
+    height: 70px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+}
+
+#left {
+    width: 10%;
+    height: 600px;
+    background-color: coral;
+    text-align: center;
+}
+
+#mid {
+    width: 40%;
+    height: 600px;
+    background-color: darkgray;
+    text-align: center;
+}
+
+#right {
+    width: 10%;
+    height: 600px;
+    background-color: darkred;
+    text-align: center;
+}
+
+footer {
+    background-color: blanchedalmond;
+    width: 60%;
+    height: 70px;
+    text-align: center;
+}
+
